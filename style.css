@@ -28,6 +28,12 @@ h2{
     width: 21%;
     margin-bottom: 8.1rem;
 }
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+}
+
 
 form{
     margin: 1.8rem 0 2rem 0;
