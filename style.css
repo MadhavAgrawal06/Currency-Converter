@@ -25,14 +25,11 @@ h2{
     background-color: white;
     padding: 2rem;
     border-radius: 1.5rem;
-    width: 21%;
+    width: 90%;
+    max-width: 350px;
     margin-bottom: 8.1rem;
 }
-@media (max-width: 768px) {
-  .container {
-    width: 90%;
-  }
-}
+
 
 
 form{
